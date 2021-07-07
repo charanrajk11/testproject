@@ -1,1 +1,2 @@
-Hello word!
+#/bin/bash
+echo "Hello word"
